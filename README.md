@@ -1,16 +1,17 @@
 =================
 Where's Derpy
 =================
+
 Port by gameblabla
 
-First Release : July 31th 2013
-This version  : September 16th 2015
+First Release :  July 31th 2013
+
+This version  :  September 16th 2015
 
 Where's Derpy was a Flash game originally made by pepperpunk.
 I have re-programmed (unofficially) the game for a lot of platforms.
 
-The goal is to find Derpy AND the three muffins in 25 seconds.
-You cannot win if you don't find them all !
+The goal is to find Derpy and the three muffins in 30 seconds.
 
 =================
 INSTALLATION
